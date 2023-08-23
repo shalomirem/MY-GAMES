@@ -1,5 +1,6 @@
 .container{
     border:1px solid red;
+    display: flex   ;
     justify-content: center;
     text-align: center;
     background-color: red;
@@ -9,7 +10,7 @@
     min-width: 100vw;
     background-position:left;
     background-size: cover;
-    background-repeat: cover;
+    background-repeat: cover;   
 }
 
 #title{
