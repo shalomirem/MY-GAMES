@@ -22,7 +22,7 @@ for (let button of buttons) {
     });
 }
 
-let restratButton = document.getElementById("controlbutton");
+let restartButton = document.getElementById("controlbutton");
  restartButton.addEventListener("click", () => {
 
 });
